@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Voicemail.iml" filepath="$PROJECT_DIR$/Voicemail.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Voice-Based-Email-Mobile-Application-for-Visually-Impaired.iml" filepath="$PROJECT_DIR$/.idea/modules/Voice-Based-Email-Mobile-Application-for-Visually-Impaired.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Voice-Based-Email-Mobile-Application-for-Visually-Impaired.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Voice-Based-Email-Mobile-Application-for-Visually-Impaired.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Voice-Based-Email-Mobile-Application-for-Visually-Impaired.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Voice-Based-Email-Mobile-Application-for-Visually-Impaired.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Voice-Based-Email-Mobile-Application-for-Visually-Impaired.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Voice-Based-Email-Mobile-Application-for-Visually-Impaired.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Voice-Based-Email-Mobile-Application-for-Visually-Impaired.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Voice-Based-Email-Mobile-Application-for-Visually-Impaired.app.unitTest.iml" />
     </modules>
   </component>
 </project>
